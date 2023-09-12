@@ -17,7 +17,7 @@ This repository is a collection of various machine learning algorithms implement
 
 (List the machine learning algorithms here with links to their respective notebooks or code files. Example format is given below.)
 
-- **01_AlgorithmName** - [Notebook](LINK_TO_NOTEBOOK)
+- **01 - Minimum Distance Classifier** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/01-Minimum-Distance-Classifier/CODE.ipynb)
 - **02_AnotherAlgorithmName** - [Notebook](LINK_TO_NOTEBOOK)
 - ... (continue for all algorithms)
 
