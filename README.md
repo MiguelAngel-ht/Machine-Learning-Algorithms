@@ -18,7 +18,8 @@ This repository is a collection of various machine learning algorithms implement
 (List the machine learning algorithms here with links to their respective notebooks or code files. Example format is given below.)
 
 - **01 - Minimum Distance Classifier** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/01-Minimum-Distance-Classifier/CODE.ipynb)
-- **02_AnotherAlgorithmName** - [Notebook](LINK_TO_NOTEBOOK)
+- **02 - K-Means Classifier** - [Notebook](LINK_TO_NOTEBOOK)
+- **03_AnotherAlgorithmName** - [Notebook](LINK_TO_NOTEBOOK)
 - ... (continue for all algorithms)
 
 ## Usage
@@ -27,7 +28,7 @@ To use these notebooks:
 
 1. Clone the repository: 
    ```bash
-   git clone YOUR_REPOSITORY_LINK
+   git clone https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/tree/main
 2. Navigate to the repository directory and install any necessary libraries/packages.
 3. Open the desired notebook using your preferred notebook viewer/editor, such as Jupyter Notebook.
 4. Follow the instructions within each notebook.
