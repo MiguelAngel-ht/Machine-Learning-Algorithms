@@ -1,11 +1,11 @@
 # K-Means
 
-<centering>
+<center>
 <figure>
     <img src="Images/KMEANSGIF.gif" alt="Alternate text for the image">
     <figcaption>Your caption goes here</figcaption>
 </figure>
-</centering>
+</center>
 
 
 KMeans is an iterative clustering algorithm that aims to partition a set of data points into \( K \) non-overlapping subgroups (clusters), where each data point belongs to the cluster with the nearest mean. The algorithm can be described in a few key steps:
