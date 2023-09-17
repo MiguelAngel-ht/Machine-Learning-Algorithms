@@ -11,7 +11,7 @@ This repository is a collection of various machine learning algorithms implement
 
 ## Introduction
 
-(Here, you can add a brief introduction about machine learning, its importance, and why you created this repository.)
+
 
 ## Algorithms
 
