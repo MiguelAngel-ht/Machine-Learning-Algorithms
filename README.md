@@ -20,7 +20,7 @@ Fast forward to today, and ML has permeated nearly every sector. In the real wor
 (List the machine learning algorithms here with links to their respective notebooks or code files. Example format is given below.)
 
 - **01 - Minimum Distance Classifier** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/01-Minimum-Distance-Classifier/CODE.ipynb)
-- **02 - K-Means Classifier** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/02-K-Means-Classifier/CODE.ipynb)
+- **02 - K-Means Clustering** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/02-K-Means/CODE.ipynb)
 - **03_AnotherAlgorithmName** - [Notebook](LINK_TO_NOTEBOOK)
 - ... (continue for all algorithms)
 
