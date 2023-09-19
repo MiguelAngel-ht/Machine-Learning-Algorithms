@@ -17,12 +17,13 @@ Given a new data point, k-NN:
 ## What is a Decision Boundary?
 It's a surface that separates data points of different classes. In the context of k-NN, the decision boundary can be complex and is determined by the data distribution and the value of 'k'.
 
-<center>
-<figure style="text-align: center;">
-    <img src="knnBD.png" alt="Alternate text for the image" width="300px">
-    <figcaption>Decision Boundary in KNN Classification.</figcaption>
-</figure>
-</center>
+
+<div align="center">
+   <figure>
+       <img src="knnBD.png" alt="Alternate text for the image" width="300px">
+       <figcaption>Decision Boundary in KNN Classification.</figcaption>
+   </figure>
+</div>
 
 
 ## Where to Use k-NN?
