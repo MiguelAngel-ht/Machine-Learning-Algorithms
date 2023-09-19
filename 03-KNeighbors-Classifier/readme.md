@@ -19,10 +19,10 @@ It's a surface that separates data points of different classes. In the context o
 
 <center>
 <figure style="text-align: center;">
-    <img src="knnBD.PNG" alt="Alternate text for the image" width="300px">
+    <img src="knnBD.png" alt="Alternate text for the image" width="300px">
     <figcaption>Decision Boundary in KNN Classification.</figcaption>
 </figure>
-</center
+</center>
 
 
 ## Where to Use k-NN?
