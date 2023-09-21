@@ -2,12 +2,14 @@
 
 KMeans is an iterative clustering algorithm that aims to partition a set of data points into \( K \) non-overlapping subgroups (clusters), where each data point belongs to the cluster with the nearest mean. The algorithm can be described in a few key steps:
 
-<figure style="text-align: center;">
-    <img src="KMEANSGIF.gif" alt="Alternate text for the image" width="300px">
-    <figcaption>Result of classification with diferent values of K.</figcaption>
-</figure>
 
 
+<div align="center">
+    <figure style="text-align: center;">
+        <img src="KMEANSGIF.gif" alt="Alternate text for the image" width="300px">
+        <figcaption>Result of classification with diferent values of K.</figcaption>
+    </figure>
+</div>
 
 1. **Initialization**: Choose \( K \) initial cluster centers (centroids). This can be done randomly, by selecting \( K \) random data points, or by other initialization methods.
   
