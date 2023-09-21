@@ -5,9 +5,10 @@ KMeans is an iterative clustering algorithm that aims to partition a set of data
 
 
 <div align="center">
-    <figure style="text-align: center;">
+    <figure>
         <img src="KMEANSGIF.gif" alt="Alternate text for the image" width="300px">
-        <figcaption>Result of classification with diferent values of K.</figcaption>
+        <figcaption>
+            Result of classification with diferent values of K.</figcaption>
     </figure>
 </div>
 
