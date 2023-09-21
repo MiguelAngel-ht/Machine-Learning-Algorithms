@@ -8,7 +8,7 @@ KMeans is an iterative clustering algorithm that aims to partition a set of data
     <figure>
         <img src="KMEANSGIF.gif" alt="Alternate text for the image" width="300px">
     </figure>
-    Result of classification with diferent values of K.
+    <p>Result of classification with diferent values of K.</p>
 </div>
 
 1. **Initialization**: Choose \( K \) initial cluster centers (centroids). This can be done randomly, by selecting \( K \) random data points, or by other initialization methods.
