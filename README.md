@@ -15,9 +15,7 @@ This repository is a collection of various machine learning algorithms implement
 
 Fast forward to today, and ML has permeated nearly every sector. In the real world, it drives advancements in areas ranging from healthcare, where algorithms can detect diseases, to finance, optimizing stock market trading strategies. While its early days saw solutions for narrower tasks, modern ML, especially with the rise of deep learning, addresses complex challenges: translating languages in real-time, driving autonomous vehicles, generating art, and even aiding in cutting-edge scientific research.
 
-## Algorithms
-
-(List the machine learning algorithms here with links to their respective notebooks or code files. Example format is given below.)
+## Algorithms + Notebooks [Links]
 
 - **01 - Minimum Distance Classifier** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/01-Minimum-Distance-Classifier/CODE.ipynb)
 - **02 - K-Means Clustering** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/02-K-Means/CODE.ipynb)
