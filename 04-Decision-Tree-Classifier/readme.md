@@ -15,6 +15,14 @@ A Decision Tree Classifier is a supervised machine learning algorithm used prima
 **Performance**: KNN can be computationally expensive on large datasets since it has to compute distances between points, whereas Decision Trees can be faster in making decisions once the tree is constructed.
 **Interpretability**: Decision Trees are highly interpretable and can be visualized easily, whereas KNN lacks such a clear representation.
 
+<div align="center">
+   <figure>
+       <img src="knnvsDT.png" alt="Alternate text for the image" width="300px">
+       <p>Decision Boundary in KNN vs Decision Tree's</p>
+   </figure>
+</div>
+
+
 ## Applications
 1. Medical diagnosis where the decision-making process is hierarchical.
 2. Credit risk analysis to decide whether to grant a loan based on several criteria.
