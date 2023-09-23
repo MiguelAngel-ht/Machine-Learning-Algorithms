@@ -21,7 +21,7 @@ Fast forward to today, and ML has permeated nearly every sector. In the real wor
 
 - **01 - Minimum Distance Classifier** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/01-Minimum-Distance-Classifier/CODE.ipynb)
 - **02 - K-Means Clustering** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/02-K-Means/CODE.ipynb)
-- **03 - K Neighbors Classifier** - [Notebook](LINK_TO_NOTEBOOK)
+- **03 - K Neighbors Classifier** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/03-KNeighbors-Classifier/CODE.ipynb)
 - ... (continue for all algorithms)
 
 ## Usage
