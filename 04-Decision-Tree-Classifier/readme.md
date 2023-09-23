@@ -17,7 +17,7 @@ A Decision Tree Classifier is a supervised machine learning algorithm used prima
 
 <div align="center">
    <figure>
-       <img src="knnvsDT.png" alt="Alternate text for the image" width="300px">
+       <img src="knnvsDT.png" alt="Alternate text for the image" width="600px">
        <p>Decision Boundary in KNN vs Decision Tree's</p>
    </figure>
 </div>
