@@ -21,12 +21,12 @@ A Decision Tree Classifier is a supervised machine learning algorithm used prima
 3. Recommendation systems, like deciding whether to recommend a product.
 4. Many areas of business analytics, such as customer segmentation.
    
-## Pros:
+<span style="color:green">Pros:</span>
 * *Interpretability*: Trees can be visualized and understood even by people without a machine learning background.
 * *Handling both continuous and categorical data*: Doesn't require much data preprocessing.
 * *Non-parametric*: No assumptions about data distribution.
 
-## Cons:
+<span style="color:red">Cons:</span>
 * *Overfitting*: Without proper tuning, trees can get very deep and complex, leading to memorizing the data rather than generalizing.
 * *Sensitivity*: Small changes in the data can lead to a very different tree structure.
 * *Imbalance Issue*s: They can be biased if one class dominates.
