@@ -20,7 +20,7 @@ It's a surface that separates data points of different classes. In the context o
 
 <div align="center">
    <figure>
-       <img src="knnBD.png" alt="Alternate text for the image" width="300px">
+       <img src="knnBD.png" alt="Alternate text for the image" width="600px">
        <p>Decision Boundary in KNN Classification.</p>
    </figure>
 </div>
