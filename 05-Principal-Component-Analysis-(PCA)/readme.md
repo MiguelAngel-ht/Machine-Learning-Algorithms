@@ -14,16 +14,16 @@ PCA, or Principal Component Analysis, is a statistical method used to reduce the
 
 PCA is predominantly used for:
 
-*Dimensionality Reduction*: Reducing the number of variables while retaining most of the original data's variance.
-*Data Visualization*: Making high-dimensional data more visually interpretable by reducing it to 2D or 3D.
-*Noise Reduction*: By focusing on the primary components of variance, PCA can help filter out noise.
-*Feature Extraction*: Deriving new features that might be more informative than the original ones.
+* *Dimensionality Reduction*: Reducing the number of variables while retaining most of the original data's variance.
+* *Data Visualization*: Making high-dimensional data more visually interpretable by reducing it to 2D or 3D.
+* *Noise Reduction*: By focusing on the primary components of variance, PCA can help filter out noise.
+* *Feature Extraction*: Deriving new features that might be more informative than the original ones.
 
 ## Classification of 2 features of original data vs. transformed data with PCA
 By comparing the classification results on two original features versus two principal components, one can observe potential benefits in terms of model simplicity, accuracy, or even computational efficiency. In some cases, the PCA-transformed data may lead to clearer decision boundaries, aiding in better model performance.
 
 ## Applications of PCA
-***Image Compression***: Representing images with fewer bits while retaining their main features.
-***Genomic Data Analysis***: Handling vast amounts of gene expression data.
-***Finance***: Reducing the number of variables in risk modeling or for portfolio optimization.
-***Speech Recognition***: Reducing the complexity of audio features for better model performance.
+- ***Image Compression***: Representing images with fewer bits while retaining their main features.
+- ***Genomic Data Analysis***: Handling vast amounts of gene expression data.
+- ***Finance***: Reducing the number of variables in risk modeling or for portfolio optimization.
+- ***Speech Recognition***: Reducing the complexity of audio features for better model performance.
