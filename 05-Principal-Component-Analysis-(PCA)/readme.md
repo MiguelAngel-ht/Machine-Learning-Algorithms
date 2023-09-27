@@ -3,6 +3,13 @@
 ## What is PCA?
 PCA, or Principal Component Analysis, is a statistical method used to reduce the dimensionality of data. By transforming the original variables into a new set of orthogonal variables (the principal components), PCA captures the most significant patterns in the data without needing to use all original variables.
 
+<div align="center">
+   <figure>
+       <img src="PCA_transform.png" alt="Alternate text for the image" width="1000px">
+       <p>Example of transformation of data with PCA's</p>
+   </figure>
+</div>
+
 ## How does PCA work?
 1. **Standardization**: The data is standardized to have a mean of 0 and a standard deviation of 1.
 2. **Covariance Matrix Computation**: A covariance matrix is computed from the standardized data.
