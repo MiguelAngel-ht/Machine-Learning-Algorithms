@@ -1,5 +1,14 @@
 # Repository of Machine Learning Algorithms
 
+<div align="center">
+   <figure>
+       <img src="svm_animation.gif" alt="Alternate text for the image" width="700px">
+       <p>Example of transformation of data with PCA's</p>
+   </figure>
+</div>
+
+
+
 This repository is a collection of various machine learning algorithms implemented in Python. From basic algorithms to more advanced ones, this repository aims to serve as a comprehensive guide and resource for anyone looking to delve into the world of machine learning.
 
 ## Table of Contents
