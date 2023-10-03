@@ -5,7 +5,7 @@ PCA, or Principal Component Analysis, is a statistical method used to reduce the
 
 <div align="center">
    <figure>
-       <img src="PCA_transform.png" alt="Alternate text for the image" width="700px">
+       <img src="PCA_transform.png" alt="Alternate text for the image" width="600px">
        <p>Example of transformation of data with PCA's</p>
    </figure>
 </div>
