@@ -10,7 +10,11 @@ Support Vector Machine (SVM) is a type of supervised learning algorithm that is 
 
 The fundamental idea behind SVM is to find the optimal hyperplane which maximizes the margin between two classes. The equation of the hyperplane is represented as:
 
-$mu * x - b = 0$
+$\overrightarrow{\omega} \cdot \overrightarrow{x} - b =0$
+
+where $\overrightarrow{\omega}$ is the normal vector to the hyperplane, $\overrightarrow{x}$ are the input features, and $b$ is the bias. The objective is to minimize
+
+$\frac{1}{2} \left\| \overrightarrow{\omega}\right\| {^2}$
 
 
 ## Where Can I Use This Algorithm for Solving Problems?
