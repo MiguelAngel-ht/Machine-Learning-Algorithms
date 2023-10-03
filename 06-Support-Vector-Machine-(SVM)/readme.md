@@ -21,6 +21,12 @@ subject to the constraint
 
 Here, $y_i$ are the labels, $\overrightarrow{x_i}$ are the data points, and $i$ indexes over all data points.
 
+<div align="center">
+   <figure>
+       <img src="svm_animation.gif" alt="SVM Process" width="700px">
+       <p>Adjustment of Hyperplane in SVM changing C parameter</p>
+   </figure>
+</div>
 
 ## What is the Hyperplane and How to Obtain It?
 
