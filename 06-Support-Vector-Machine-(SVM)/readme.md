@@ -23,7 +23,7 @@ Here, $y_i$ are the labels, $\overrightarrow{x_i}$ are the data points, and $i$ 
 
 <div align="center">
    <figure>
-       <img src="svm_animation.gif" alt="SVM Process" width="600px">
+       <img src="svm_animation.gif" alt="SVM Process" width="500px">
        <p>Adjustment of Hyperplane in SVM increasing C parameter</p>
    </figure>
 </div>
