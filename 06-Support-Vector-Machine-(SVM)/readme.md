@@ -17,7 +17,7 @@ where $\overrightarrow{\omega}$ is the normal vector to the hyperplane, $\overri
 
 subject to the constraint
 
-**$ \begin{center} y_i (\overrightarrow{\omega} \cdot \overrightarrow{x_i} - b) \ge  1 \end{center}$**, for all $i$
+**$$\begin{center} y_i (\overrightarrow{\omega} \cdot \overrightarrow{x_i} - b) \ge  1 \end{center}$$**, for all $i$
 
 Here, $y_i$ are the labels, $\overrightarrow{x_i}$ are the data points, and $i$ indexes over all data points.
 
