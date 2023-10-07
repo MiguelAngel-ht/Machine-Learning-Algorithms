@@ -21,7 +21,7 @@ Fast forward to today, and ML has permeated nearly every sector. In the real wor
 
 - **01 - Minimum Distance Classifier** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/01-Minimum-Distance-Classifier/CODE.ipynb)
 - **02 - K-Means Clustering** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/02-K-Means/CODE.ipynb)
-- **03 - K Neighbors Classifier** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/03-KNeighbors-Classifier/CODE.ipynb)
+- **03 - K Neighbors Classifier (KNN)** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/03-KNeighbors-Classifier/CODE.ipynb)
 - **04 - Decision Tree Classifier** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/04-Decision-Tree-Classifier/CODE.ipynb)
 - **05 - Principal Component Analysis (PCA)** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/05-Principal-Component-Analysis-(PCA)/CODE.ipynb)
 - **06 - Support Vector Machine (SVM)** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/06-Support-Vector-Machine-(SVM)/Code.ipynb)
