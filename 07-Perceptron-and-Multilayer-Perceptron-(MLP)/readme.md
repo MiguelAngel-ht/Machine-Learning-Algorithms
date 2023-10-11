@@ -8,6 +8,13 @@ A perceptron is a type of artificial neuron or node used in supervised learning 
 
 Multi-Layer Perceptron (MLP) is a class of feedforward artificial neural network. Unlike the simple perceptron, which can only classify linearly separable sets of vectors, MLP can represent a much broader range of decision boundaries thanks to its hidden layers and non-linear activation functions. MLP consists of at least three layers of nodes — an input layer, a hidden layer, and an output layer.
 
+<div align="center">
+   <figure>
+       <img src="dbp.png" alt="SVM Process" width="500px">
+       <p>Decision Boundary Perceptron vs MLPr</p>
+   </figure>
+</div>
+
 ## What are the Differences?
 * **Complexity:** A perceptron is a single-layer structure, while MLP has multiple layers, making MLP more capable of handling complex data patterns.
 * **Decision Boundaries:** Perceptrons can only model linear decision boundaries, while MLPs can model non-linear decision boundaries, thanks to their non-linear activation functions.
