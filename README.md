@@ -25,7 +25,10 @@ Fast forward to today, and ML has permeated nearly every sector. In the real wor
 - **04 - Decision Tree Classifier** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/04-Decision-Tree-Classifier/CODE.ipynb)
 - **05 - Principal Component Analysis (PCA)** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/05-Principal-Component-Analysis-(PCA)/CODE.ipynb)
 - **06 - Support Vector Machine (SVM)** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/06-Support-Vector-Machine-(SVM)/Code.ipynb)
+- **07 - Simple and Multilayer Perceptron (MLP)** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/07-Perceptron-and-Multilayer-Perceptron-(MLP)/Code.ipynb)
 - ... (continue for all algorithms)
+
+
 
 ## Usage
 
