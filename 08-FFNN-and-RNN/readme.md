@@ -31,6 +31,8 @@ Implementing RNNs with TensorFlow and Keras is equally accessible. Keras provide
 
 ---
 
+## Results
+
 <div align="center">
    <figure>
        <img src="ffnn_vs_rnn.png" alt="SVM Process" width="500px">
