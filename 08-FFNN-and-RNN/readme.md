@@ -35,7 +35,7 @@ Implementing RNNs with TensorFlow and Keras is equally accessible. Keras provide
 
 <div align="center">
    <figure>
-       <img src="ffnn_vs_rnn.png" alt="SVM Process" width="650px">
+       <img src="ffnn_vs_rnn.png" alt="SVM Process" width="700px">
        <p>Decision Boundary FFNN vs RNN</p>
    </figure>
 </div>
