@@ -26,10 +26,11 @@ Fast forward to today, and ML has permeated nearly every sector. In the real wor
 - **05 - Principal Component Analysis (PCA)** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/05-Principal-Component-Analysis-(PCA)/CODE.ipynb)
 - **06 - Support Vector Machine (SVM)** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/06-Support-Vector-Machine-(SVM)/Code.ipynb)
 - **07 - Simple and Multilayer Perceptron (MLP)** - [Notebook](https://github.com/MiguelAngel-ht/Machine_Learning_Algorithms-2021/blob/main/07-Perceptron-and-Multilayer-Perceptron-(MLP)/Code.ipynb)
+- **08 - FeedForward Neural Network (FFNN) and Recurrent Neural Network (RNN)** - [Notebook](ttps://github.com/MiguelAngel-ht/Machine-Learning-Algorithms/blob/main/08-FFNN-and-RNN/CODE.ipynb)
 - ... (continue for all algorithms)
 
 
-
+h
 ## Usage
 
 To use these notebooks:
